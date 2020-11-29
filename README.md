@@ -10,9 +10,9 @@ A timed coding quiz with multiple-choice questions. This app will run in the bro
 ## Usage
 
 
-![Portfolio Image](https://github.com/MezaCreative/Code-Quiz/blob/main/assets/Screenshot.png)
+![Code-quiz Image](https://github.com/MezaCreative/Code-Quiz/blob/main/Screenshot.png)
 
-Preview of the site is available here [Esteban Portfolio](https://mezacreative.github.io/Code-Quiz/).
+Preview of the site is available here [Code-quiz](https://mezacreative.github.io/Code-Quiz/).
 
 
 ## Installation
